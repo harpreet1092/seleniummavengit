@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T20:43:23 IST" name="Default suite" finished-at="2022-10-10T20:43:23 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T20:43:23 IST" name="Default test" finished-at="2022-10-10T20:43:23 IST" duration-ms="76">
+      <class name="QA1.mavenJava2.SeleniumTest">
+        <test-method signature="URL()[pri:0, instance:QA1.mavenJava2.SeleniumTest@121314f7]" started-at="2022-10-10T20:43:23 IST" name="URL" finished-at="2022-10-10T20:43:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method signature="login()[pri:0, instance:QA1.mavenJava2.SeleniumTest@121314f7]" started-at="2022-10-10T20:43:23 IST" name="login" finished-at="2022-10-10T20:43:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- QA1.mavenJava2.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
